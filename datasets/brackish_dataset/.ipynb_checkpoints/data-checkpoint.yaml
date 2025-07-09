@@ -1,0 +1,5 @@
+train: brackish_dataset/train/images
+val: brackish_dataset/valid/images
+
+nc: 6
+names: ['crab', 'fish', 'jellyfish', 'shrimp', 'small_fish', 'starfish']
